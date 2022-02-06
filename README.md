@@ -9,7 +9,7 @@
 - [ ] ***The Odin Project: Foundations***
     - [x] **Date Started:** *04/02/2022*
     - **% Complete:** *42% (As of 06/02/2022)*
-    - [ ]**Date Completed:** *?*
+    - [ ] **Date Completed:** *?*
     - **Path**
         - [x] **5. CSS Foundations**
             - [ ] 5.1 CSS Foundations
