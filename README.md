@@ -12,7 +12,7 @@
     - [ ] **Date Completed:** *?*
     - **Path**
         - [x] **5. CSS Foundations**
-            - [ ] 5.1 CSS Foundations
+            - [x] 5.1 CSS Foundations
             - [ ] 5.2 Inspecting HTML and CSS
             - [ ] 5.3 The Box Model
             - [ ] 5.4 Block and Inline
