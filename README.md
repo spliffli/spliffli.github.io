@@ -8,7 +8,7 @@
 ## **[Active Quests]**:
 - [ ] ***The Odin Project: Foundations***
     - [x] **Date Started:** *04/02/2022*
-    - **% Complete:** *42% (As of 06/02/2022)*
+    - **% Complete:** *44% (As of 08/02/2022)*
     - [ ] **Date Completed:** *?*
     - **Path**
         - [x] **5. CSS Foundations**
